@@ -28,3 +28,14 @@ Can you:
 1) Explain what causes the intermittent error?
 2) Fix the intermittent error?
 3) Explain the steps you took troubleshooting this intermittent error?
+
+
+# Assigment 2
+
+A client has a Linux server that has just paged you because of a high 
+load average issue. Upon connecting and running uptime you see:
+12:20:50 up 1 day, 10:52, 6 users, load average: 44.28, 33.34, 30.44
+How would you troubleshoot this issue to find out what is the source of 
+the load and what tools would you use? Please list also what would you 
+look for in the output of the commands that you would run.
+
