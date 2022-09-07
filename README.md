@@ -2,7 +2,8 @@
 
 # Assignment 1
 
-troubleshooting
+Troubleshooting
+
 The interface that integrates our system with that of our SMS Gateway partner started
 to produce some weird intermittent errors recently.
 Here is how the process works:
