@@ -26,8 +26,7 @@ generate_data && process_data
 Running this a few times in a row should definitely trigger the mentioned error.
 Can you:
 1) What all are the possibilities that may cause this intermetent error
-2) Fix for each cause you mentioned ?
-3) Explain the steps you took troubleshooting this intermittent error?
+2) Explain the steps you took troubleshooting this intermittent error?
 
 
 # Assigment 2
